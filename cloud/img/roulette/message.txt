@@ -1,0 +1,95 @@
+            // BALENCIAGA
+            { "black.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Black)", fractionId: 0, isHeavy: false, drawable: 57, texture: 0, gender: true) }, // black.balensiaga.armor.png
+            { "red.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Red)", fractionId: 0, isHeavy: false, drawable: 57, texture: 1, gender: true) },
+            { "purple.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Purple)", fractionId: 0, isHeavy: false, drawable: 57, texture: 2, gender: true) },
+            { "blue.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Blue)", fractionId: 0, isHeavy: false, drawable: 57, texture: 3, gender: true) },
+            { "green.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Green)", fractionId: 0, isHeavy: false, drawable: 57, texture: 4, gender: true) },
+            { "orange.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Orange)", fractionId: 0, isHeavy: false, drawable: 57, texture: 5, gender: true) },
+            { "red+.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Red+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 6, gender: true) }, // -
+            { "purple+.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Purple+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 7, gender: true) }, // -
+            { "white.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (White)", fractionId: 0, isHeavy: false, drawable: 57, texture: 8, gender: true) },
+            { "blue+.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Blue+)", fractionId: 0, isHeavy: true, drawable: 57, texture: 9, gender: true) }, //-
+            { "green+.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Green+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 10, gender: true) },// -
+            { "yellow.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Yellow)", fractionId: 0, isHeavy: false, drawable: 57, texture: 11, gender: true) },
+            { "orange+.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Orange+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 12, gender: true) }, //-
+            { "purple++.balensiaga.armor", new ArmorData(name: "Бронежилет BALENCIAGA (Purple++)", fractionId: 0, isHeavy: false, drawable: 57, texture: 13, gender: true) }, //-
+            //Louis Vuitton
+            { "brown.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Brown)", fractionId: 0, isHeavy: false, drawable: 56, texture: 5, gender: true) },
+            { "blue.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Blue)", fractionId: 0, isHeavy: false, drawable: 56, texture: 6, gender: true) },
+            { "black.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Black)", fractionId: 0, isHeavy: false, drawable: 56, texture: 7, gender: true) },
+            { "red.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Red)", fractionId: 0, isHeavy: false, drawable: 56, texture: 8, gender: true) },
+            { "grean.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Grean)", fractionId: 0, isHeavy: false, drawable: 56, texture: 9, gender: true) },
+            { "blue+.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Blue+)", fractionId: 0, isHeavy: false, drawable: 56, texture: 10, gender: true) },
+            { "purple.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Purple)", fractionId: 0, isHeavy: false, drawable: 56, texture: 11, gender: true) },
+            { "orange.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (Orange)", fractionId: 0, isHeavy: false, drawable: 56, texture: 12, gender: true) },
+            { "white.louis.armor", new ArmorData(name: "Бронежилет Louis Vuitton (White)", fractionId: 0, isHeavy: false, drawable: 56, texture: 13, gender: true) }, 
+            //GUCCI
+            { "brown.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Brown)", fractionId: 0, isHeavy: false, drawable: 56, texture: 14, gender: true) },
+            { "black.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Black)", fractionId: 0, isHeavy: false, drawable: 56, texture: 15, gender: true) },
+            { "white.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (White)", fractionId: 0, isHeavy: false, drawable: 56, texture: 16, gender: true) },
+            { "red.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Red)", fractionId: 0, isHeavy: false, drawable: 56, texture: 17, gender: true) },
+            { "purple.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Purple)", fractionId: 0, isHeavy: false, drawable: 56, texture: 18, gender: true) },
+            { "blue.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Blue)", fractionId: 0, isHeavy: false, drawable: 56, texture: 19, gender: true) },
+            { "grean.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Grean)", fractionId: 0, isHeavy: false, drawable: 56, texture: 20, gender: true) },
+            { "grean+.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Grean+)", fractionId: 0, isHeavy: false, drawable: 56, texture: 21, gender: true) },
+            { "blue+.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Blue+)", fractionId: 0, isHeavy: false, drawable: 56, texture: 22, gender: true) },
+            { "orange.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Orange)", fractionId: 0, isHeavy: false, drawable: 56, texture: 23, gender: true) },
+            { "orange+.gucci.armor", new ArmorData(name: "Бронежилет GUCCI (Orange+)", fractionId: 0, isHeavy: false, drawable: 56, texture: 24, gender: true) },
+            //BURBERRY
+            { "one.burberry.armor", new ArmorData(name: "Бронежилет BURBERRY", fractionId: 0, isHeavy: false, drawable: 56, texture: 25, gender: true) },
+            //SUPREME drawable 57
+            { "redr+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Red R++)", fractionId: 0, isHeavy: false, drawable: 57, texture: 14, gender: true) },
+            { "greanb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Grean B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 15, gender: true) },
+            { "orangeb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Orange B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 16, gender: true) },
+            { "purpleb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Purple B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 17, gender: true) },
+            { "blueb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Blue B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 18, gender: true) },
+            { "whiteb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (White B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 19, gender: true) },
+            { "whitewr+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (White R+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 20, gender: true) },
+            { "yellowb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Yellow B+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 21, gender: true) },
+            { "redw+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Red W+)", fractionId: 0, isHeavy: false, drawable: 57, texture: 22, gender: true) },
+            { "purpleb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Purple B++)", fractionId: 0, isHeavy: false, drawable: 57, texture: 23, gender: true) },
+            { "blueb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Blue B++)", fractionId: 0, isHeavy: false, drawable: 57, texture: 24, gender: true) },
+            { "greanb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Grean B++)", fractionId: 0, isHeavy: false, drawable: 57, texture: 25, gender: true) },
+            //SUPREME drawable 58
+            { "yelowb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Yelow B++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 0, gender: true) },
+            { "orangeb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Orange B++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 1, gender: true) },
+            { "pinkb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Pink B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 2, gender: true) },
+            { "brownb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Brown B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 3, gender: true) },
+            { "blackb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Black B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 4, gender: true) },
+            { "redb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Red B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 5, gender: true) },
+            { "purpleb+++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Purple B+++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 6, gender: true) },
+            { "blueb+++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Blue B+++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 7, gender: true) },
+            { "bluexgrayb+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (bluexgray B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 8, gender: true) },
+            { "greanb+++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Grean B+++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 9, gender: true) },
+            { "brownb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Brown B++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 10, gender: true) },
+            { "whiteb++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (White B++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 11, gender: true) },
+            { "redr++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Red R++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 12, gender: true) },
+            { "bluer+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Blue R+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 13, gender: true) },
+            { "bluer++.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Blue R++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 14, gender: true) },
+            { "purpler+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Purple R++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 15, gender: true) },
+            { "brownr+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Brown R+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 16, gender: true) },
+            { "greanr+.supreme.armor", new ArmorData(name: "Бронежилет SUPREME (Grean R+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 17, gender: true) },
+            //KENZO drawable 58
+            { "whiteb+.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (White B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 18, gender: true) },
+            { "blueb+.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (Blue B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 19, gender: true) },
+            { "redxgreanb+.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (RedxGrean B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 19, gender: true) },
+            { "whiteb++.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (White B++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 20, gender: true) },
+            { "blackxwhiteb+.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (BlackxWhite B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 21, gender: true) },
+            { "blackb+.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (Black B+)", fractionId: 0, isHeavy: false, drawable: 58, texture: 22, gender: true) },
+            { "whiteb+++.kenzo.armor", new ArmorData(name: "Бронежилет KENZO (White B+++)", fractionId: 0, isHeavy: false, drawable: 58, texture: 23, gender: true) },
+            //KENZO 59
+            // 0 - 6  drawable
+            //Off White™ 59
+            { "blacky+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black Y+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 7, gender: true) },
+            { "blackg+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black G+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 8, gender: true) },
+            { "blackb+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black B+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 9, gender: true) },
+            { "blackb++.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black B++)", fractionId: 0, isHeavy: false, drawable: 59, texture: 10, gender: true) },
+            { "blackb+++.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black B+++)", fractionId: 0, isHeavy: false, drawable: 59, texture: 11, gender: true) },
+            { "blackp+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black P+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 12, gender: true) },
+            { "blackp++.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black P++)", fractionId: 0, isHeavy: false, drawable: 59, texture: 13, gender: true) },
+            { "blackr+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black R+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 14, gender: true) },
+            { "blacko+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black O+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 15, gender: true) },
+            { "blacky++.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black Y++)", fractionId: 0, isHeavy: false, drawable: 59, texture: 16, gender: true) },
+            { "blackp+++.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (Black P+++)", fractionId: 0, isHeavy: false, drawable: 59, texture: 17, gender: true) },
+            //skip 18-24
+            { "whitew+.offwhite.armor", new ArmorData(name: "Бронежилет Off-White™ (White W+)", fractionId: 0, isHeavy: false, drawable: 59, texture: 25, gender: true) },
